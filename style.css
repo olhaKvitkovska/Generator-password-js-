@@ -1,0 +1,25 @@
+body{
+	background: url('http://www.1366x768.ru/space/50/space-wallpaper-1366x768.jpg');
+	text-align: center;
+
+}
+input{
+	width: 300px;
+	height: 40px;
+	font-size: 20px;
+	color:wheat;
+	border: solid 2px;
+	border: 70px solid transparent;
+	 border-right: 30px solid #000;
+	 border-bottom: 10px solid #fff;
+	 border-top: 26px solid #fff;
+	background:transparent
+
+}
+button{
+	width: 100px;
+	height: 120px;
+	border-radius: 50%;
+	background: transparent;
+	color: wheat;
+}
